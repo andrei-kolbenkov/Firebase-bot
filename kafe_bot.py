@@ -5,7 +5,6 @@ from main import firestore_client
 from datetime import datetime
 
 
-# https://t.me/menu7854125bot
 bot = telebot.TeleBot('')
 # Сохранение предыдущего call-хендлера
 previous_call = ''
