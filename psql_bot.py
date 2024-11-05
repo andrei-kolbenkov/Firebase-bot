@@ -4,14 +4,13 @@ from datetime import datetime
 import psycopg2
 
 
-# https://t.me/menu7854125bot
 bot = telebot.TeleBot('')
 # Сохранение предыдущего call-хендлера
 previous_call = ''
 
 DBNAME = 'postgres'
 USER = 'postgres'
-PASSWORD = '1a2s3d4f'
+PASSWORD = ''
 HOST = '127.0.0.1'
 PORT = '5432'
 
