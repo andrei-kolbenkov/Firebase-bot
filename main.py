@@ -15,7 +15,7 @@ class FirestoreClient():
                   "client_id": "",
                   "auth_uri": "",
                   "token_uri": "",
-                  "auth_provider_x509_cert_url": "",
+                  "auth_provider": "",
                   "client_x509_cert_url": "",
                   "universe_domain": "googleapis.com"
                 }
